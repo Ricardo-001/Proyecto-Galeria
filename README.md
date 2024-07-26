@@ -4,6 +4,7 @@
 - Html
 - Css 
 - Css Grid
+- Css Flebox
 
 ## Detalles sobre este proyecto
 Este es un proyecto untilizando Html y Css para crear una galeria de imagenes
